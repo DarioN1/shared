@@ -3,15 +3,493 @@ shared
 
 https://DxxxxxICT-Apps@dev.azure.com/DanieliICT-Apps/DVCP/_git/DVCP
 
-[{"Id":0,"OrderNumber":"21145006","CompanyCode":"IT01","Company":{"Id":2,"Name":"IT01","Description":"DANIELI & C. OFFICINE MECCANICHE SPA","Users":null,"DefaultBehavior":true,"QcUserId":null,"QcUser":null,"QcGroupId":null,"QcGroup":null,"DoUserId":null,"DoUser":null,"DoGroupId":null,"DoGroup":null,"Deleted":false},"CompanyId":2,"PurchasingOrganization":"IT10","OrderType":"OL","OrderStatus":1,"VendorCode":"170969","VendorDescription":"DALIAN XINHE HEAVY INDUSTRY CO.,LTD","VendorContactPOConfirmation":null,"VendorContactCertificationManagement":null,"OrderDate":"2021-07-05T00:00:00","SendDate":"2024-01-16T08:03:45.8784037+01:00","Buyer":"l.sun@china.danieli.com","BuyerDisplayName":"SUN LIANG","Expediter":"zh.ma@danieli.com","ExpediterDisplayName":"MA ZHONGZHI","Currency":"EUR","TotalAmount":32624.0,"Incoterms":"FOB","IncotermsLocation":"2","ModeOfTransportation":null,"ModeOfTransportationDescription":null,"PaymentTerms":"E","PaymentTermsDescription":null,"PaymentMode":"E","PaymentModeDescription":null,"HasSupplierSeeThisOrder":false,"Rows":[{"Id":0,"Item":1000,"ItemStatus":0,"CodeDWG":"DPC33L010209","OWRevisionLevel":"00","ItemWeight":null,"WeightUM":null,"BOMPosition":null,"SupplyDescription":"ENTRY OUTBOARD BEARING SUPPORT","Plant":"IT01","StorageLocation":null,"MaterialGroup":"717","Quantity":1.0,"QuantityReceived":1.0,"DeliveryCompleted":null,"UM":"NR","TotalAmount":13485.0,"TaxCode":"V","DeliveryDate":"2022-02-11T00:00:00","CostCenter":"D038","WBSelement":"DPC33L010209","SONumber":null,"SOItem":null,"AssetNumber":null,"ExpectedDate":"2022-03-11T00:00:00","ETA":"2022-03-11T00:00:00","ReadyForDeliveryDate":"2022-03-11T00:00:00","AccountAssignmentCategory":null,"ItemCategory":null,"CountryRestriction":null,"WhiteListCountries":null,"DestinationCountry":"ITALY","InboundDelDate":"2022-05-05T00:00:00","ActualGrDate":null,"HasBill":false,"OrderId":0,"RowCertificates":[{"Id":0,"Component":"0.542316.C","DocumentType":"QC","CertificateType":"00","CertificateTypeDescription":"Rapporto di prova (EN 10204 - Tipo 2.2)","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"5.277870.L/002","DocumentType":"QC","CertificateType":"11","CertificateTypeDescription":"Misura della durezza superficiale","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"000-000-062-831","DocumentType":"QC","CertificateType":"25","CertificateTypeDescription":"Prova di tenuta","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"000-000-041-023","DocumentType":"QC","CertificateType":"40","CertificateTypeDescription":"Esame non distruttivo cumulativo su sald","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"7.584691.K","DocumentType":"QC","CertificateType":"11","CertificateTypeDescription":"Misura della durezza superficiale","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"8.658424.P/A06","DocumentType":"QC","CertificateType":"27","CertificateTypeDescription":"Esame visivo e dimensionale su saldature","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.719944.B/005","DocumentType":"QC","CertificateType":"69","CertificateTypeDescription":"Collaudo flessibili raccordati.","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.877167.Z","DocumentType":"QC","CertificateType":"39","CertificateTypeDescription":"Controllo superficiale dopo tempra ad in","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.877167.Z","DocumentType":"QC","CertificateType":"01","CertificateTypeDescription":"Analisi chimica di colata","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.877165.W","DocumentType":"QC","CertificateType":"11","CertificateTypeDescription":"Misura della durezza superficiale","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.311776.H","DocumentType":"QC","CertificateType":"00","CertificateTypeDescription":"Rapporto di prova (EN 10204 - Tipo 2.2)","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"5.199449.B/001","DocumentType":"QC","CertificateType":"01","CertificateTypeDescription":"Analisi chimica di colata","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"7.018719.G","DocumentType":"QC","CertificateType":"01","CertificateTypeDescription":"Analisi chimica di colata","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.877165.W","DocumentType":"QC","CertificateType":"01","CertificateTypeDescription":"Analisi chimica di colata","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.877165.W","DocumentType":"QC","CertificateType":"39","CertificateTypeDescription":"Controllo superficiale dopo tempra ad in","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.877167.Z","DocumentType":"QC","CertificateType":"11","CertificateTypeDescription":"Misura della durezza superficiale","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.719944.B/004","DocumentType":"QC","CertificateType":"69","CertificateTypeDescription":"Collaudo flessibili raccordati.","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.542286.E","DocumentType":"QC","CertificateType":"00","CertificateTypeDescription":"Rapporto di prova (EN 10204 - Tipo 2.2)","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"5.199449.B/002","DocumentType":"QC","CertificateType":"01","CertificateTypeDescription":"Analisi chimica di colata","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"7.054406.V","DocumentType":"QC","CertificateType":"11","CertificateTypeDescription":"Misura della durezza superficiale","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"7.584692.L","DocumentType":"QC","CertificateType":"27","CertificateTypeDescription":"Esame visivo e dimensionale su saldature","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"7.584691.K","DocumentType":"QC","CertificateType":"39","CertificateTypeDescription":"Controllo superficiale dopo tempra ad in","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"000-000-041-014","DocumentType":"QC","CertificateType":"40","CertificateTypeDescription":"Esame non distruttivo cumulativo su sald","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.001206.L","DocumentType":"QC","CertificateType":"01","CertificateTypeDescription":"Analisi chimica di colata","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.001206.L","DocumentType":"QC","CertificateType":"100","CertificateTypeDescription":"Dichiarazione di Conformità di Prodotto/","HPFlag":null,"REParameter":"R","Status":3,"ReceiptDate":null,"Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"KO-NA","VerificationReason":{"Id":18,"Code":"KO-NA","Description":"Inspection not performed and certificate not issued","Type":1,"DocumentType":0,"Deleted":false},"VerificationReasonId":18,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.111713.S","DocumentType":"QC","CertificateType":"100","CertificateTypeDescription":"Dichiarazione di Conformità di Prodotto/","HPFlag":null,"REParameter":"R","Status":3,"ReceiptDate":null,"Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"KO-NA","VerificationReason":{"Id":18,"Code":"KO-NA","Description":"Inspection not performed and certificate not issued","Type":1,"DocumentType":0,"Deleted":false},"VerificationReasonId":18,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.311238.M","DocumentType":"QC","CertificateType":"00","CertificateTypeDescription":"Rapporto di prova (EN 10204 - Tipo 2.2)","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.542317.D","DocumentType":"QC","CertificateType":"00","CertificateTypeDescription":"Rapporto di prova (EN 10204 - Tipo 2.2)","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"5.277870.L/002","DocumentType":"QC","CertificateType":"39","CertificateTypeDescription":"Controllo superficiale dopo tempra ad in","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"DPC33L010209","DocumentType":"DO","CertificateType":"NOPREF","CertificateTypeDescription":"No Preferential Origin","HPFlag":null,"REParameter":null,"Status":0,"ReceiptDate":null,"Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":null,"VerificationReason":null,"VerificationReasonId":null,"CertificationDate":null,"CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.001206.L","DocumentType":"QC","CertificateType":"10","CertificateTypeDescription":"Prova meccanica su provini della stessa ","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.052648.X","DocumentType":"QC","CertificateType":"100","CertificateTypeDescription":"Dichiarazione di Conformità di Prodotto/","HPFlag":null,"REParameter":"R","Status":3,"ReceiptDate":null,"Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"KO-NA","VerificationReason":{"Id":18,"Code":"KO-NA","Description":"Inspection not performed and certificate not issued","Type":1,"DocumentType":0,"Deleted":false},"VerificationReasonId":18,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.194738.F","DocumentType":"QC","CertificateType":"100","CertificateTypeDescription":"Dichiarazione di Conformità di Prodotto/","HPFlag":null,"REParameter":"R","Status":3,"ReceiptDate":null,"Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"KO-NA","VerificationReason":{"Id":18,"Code":"KO-NA","Description":"Inspection not performed and certificate not issued","Type":1,"DocumentType":0,"Deleted":false},"VerificationReasonId":18,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"}],"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Item":2000,"ItemStatus":0,"CodeDWG":"DPC33L010291","OWRevisionLevel":"00","ItemWeight":null,"WeightUM":null,"BOMPosition":null,"SupplyDescription":"BOX FOR ENTRY SCRAP (SAME AS E","Plant":"IT01","StorageLocation":null,"MaterialGroup":"717","Quantity":1.0,"QuantityReceived":1.0,"DeliveryCompleted":null,"UM":"NR","TotalAmount":7505.0,"TaxCode":"V","DeliveryDate":"2021-12-29T00:00:00","CostCenter":"D038","WBSelement":"DPC33L010291","SONumber":null,"SOItem":null,"AssetNumber":null,"ExpectedDate":"2021-12-29T00:00:00","ETA":"2021-12-29T00:00:00","ReadyForDeliveryDate":"2021-12-29T00:00:00","AccountAssignmentCategory":null,"ItemCategory":null,"CountryRestriction":null,"WhiteListCountries":null,"DestinationCountry":"ITALY","InboundDelDate":"2022-04-06T00:00:00","ActualGrDate":null,"HasBill":false,"OrderId":0,"RowCertificates":[{"Id":0,"Component":"000-000-042-232","DocumentType":"QC","CertificateType":"401","CertificateTypeDescription":"Serraggio Bulloneria","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2021-12-30T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-01-04T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.943375.A","DocumentType":"QC","CertificateType":"40","CertificateTypeDescription":"Esame non distruttivo cumulativo su sald","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2021-12-29T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-01-04T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"000-000-042-232","DocumentType":"QC","CertificateType":"55","CertificateTypeDescription":"Controllo protezione superficiale - vern","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2021-12-30T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-01-04T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"DPC33L010291","DocumentType":"DO","CertificateType":"NOPREF","CertificateTypeDescription":"No Preferential Origin","HPFlag":null,"REParameter":null,"Status":0,"ReceiptDate":null,"Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":null,"VerificationReason":null,"VerificationReasonId":null,"CertificationDate":null,"CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.943375.A","DocumentType":"QC","CertificateType":"27","CertificateTypeDescription":"Esame visivo e dimensionale su saldature","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2021-12-29T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-01-04T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"}],"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Item":3000,"ItemStatus":0,"CodeDWG":"DPC33L013433","OWRevisionLevel":"00","ItemWeight":null,"WeightUM":null,"BOMPosition":null,"SupplyDescription":"BOX FOR EXIT SCRAP","Plant":"IT01","StorageLocation":null,"MaterialGroup":"717","Quantity":1.0,"QuantityReceived":1.0,"DeliveryCompleted":null,"UM":"NR","TotalAmount":7505.0,"TaxCode":"V","DeliveryDate":"2021-12-29T00:00:00","CostCenter":"D038","WBSelement":"DPC33L013433","SONumber":null,"SOItem":null,"AssetNumber":null,"ExpectedDate":"2021-12-29T00:00:00","ETA":"2021-12-29T00:00:00","ReadyForDeliveryDate":"2021-12-29T00:00:00","AccountAssignmentCategory":null,"ItemCategory":null,"CountryRestriction":null,"WhiteListCountries":null,"DestinationCountry":"ITALY","InboundDelDate":"2022-04-06T00:00:00","ActualGrDate":null,"HasBill":false,"OrderId":0,"RowCertificates":[{"Id":0,"Component":"000-000-042-468","DocumentType":"QC","CertificateType":"55","CertificateTypeDescription":"Controllo protezione superficiale - vern","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2021-12-30T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2021-12-31T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.943375.A","DocumentType":"QC","CertificateType":"27","CertificateTypeDescription":"Esame visivo e dimensionale su saldature","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2021-12-29T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-01-04T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"DPC33L013433","DocumentType":"DO","CertificateType":"NOPREF","CertificateTypeDescription":"No Preferential Origin","HPFlag":null,"REParameter":null,"Status":0,"ReceiptDate":null,"Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":null,"VerificationReason":null,"VerificationReasonId":null,"CertificationDate":null,"CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.943375.A","DocumentType":"QC","CertificateType":"40","CertificateTypeDescription":"Esame non distruttivo cumulativo su sald","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2021-12-29T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-01-04T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"000-000-042-468","DocumentType":"QC","CertificateType":"401","CertificateTypeDescription":"Serraggio Bulloneria","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2021-12-30T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2021-12-31T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"}],"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Item":4000,"ItemStatus":0,"CodeDWG":"DPC33L013511","OWRevisionLevel":"00","ItemWeight":null,"WeightUM":null,"BOMPosition":null,"SupplyDescription":"EXIT OUTBOARD BEARING SUPPORT","Plant":"IT01","StorageLocation":null,"MaterialGroup":"717","Quantity":1.0,"QuantityReceived":1.0,"DeliveryCompleted":null,"UM":"NR","TotalAmount":6735.0,"TaxCode":"V","DeliveryDate":"2022-02-11T00:00:00","CostCenter":"D038","WBSelement":"DPC33L013511","SONumber":null,"SOItem":null,"AssetNumber":null,"ExpectedDate":"2022-03-11T00:00:00","ETA":"2022-03-11T00:00:00","ReadyForDeliveryDate":"2022-03-11T00:00:00","AccountAssignmentCategory":null,"ItemCategory":null,"CountryRestriction":null,"WhiteListCountries":null,"DestinationCountry":"ITALY","InboundDelDate":"2022-05-05T00:00:00","ActualGrDate":null,"HasBill":false,"OrderId":0,"RowCertificates":[{"Id":0,"Component":"4.877165.W","DocumentType":"QC","CertificateType":"11","CertificateTypeDescription":"Misura della durezza superficiale","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.877167.Z","DocumentType":"QC","CertificateType":"01","CertificateTypeDescription":"Analisi chimica di colata","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.877167.Z","DocumentType":"QC","CertificateType":"39","CertificateTypeDescription":"Controllo superficiale dopo tempra ad in","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.719944.B/005","DocumentType":"QC","CertificateType":"69","CertificateTypeDescription":"Collaudo flessibili raccordati.","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.542317.D","DocumentType":"QC","CertificateType":"00","CertificateTypeDescription":"Rapporto di prova (EN 10204 - Tipo 2.2)","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"5.277870.L/002","DocumentType":"QC","CertificateType":"39","CertificateTypeDescription":"Controllo superficiale dopo tempra ad in","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"5.199449.B/002","DocumentType":"QC","CertificateType":"01","CertificateTypeDescription":"Analisi chimica di colata","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"7.054406.V","DocumentType":"QC","CertificateType":"11","CertificateTypeDescription":"Misura della durezza superficiale","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"8.658425.Q","DocumentType":"QC","CertificateType":"27","CertificateTypeDescription":"Esame visivo e dimensionale su saldature","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.001206.L","DocumentType":"QC","CertificateType":"100","CertificateTypeDescription":"Dichiarazione di Conformità di Prodotto/","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.311776.H","DocumentType":"QC","CertificateType":"00","CertificateTypeDescription":"Rapporto di prova (EN 10204 - Tipo 2.2)","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"7.584694.N","DocumentType":"QC","CertificateType":"40","CertificateTypeDescription":"Esame non distruttivo cumulativo su sald","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"7.584691.K","DocumentType":"QC","CertificateType":"39","CertificateTypeDescription":"Controllo superficiale dopo tempra ad in","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"000-000-061-268","DocumentType":"QC","CertificateType":"25","CertificateTypeDescription":"Prova di tenuta","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.001206.L","DocumentType":"QC","CertificateType":"10","CertificateTypeDescription":"Prova meccanica su provini della stessa ","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.719944.B/004","DocumentType":"QC","CertificateType":"69","CertificateTypeDescription":"Collaudo flessibili raccordati.","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.542316.C","DocumentType":"QC","CertificateType":"00","CertificateTypeDescription":"Rapporto di prova (EN 10204 - Tipo 2.2)","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"5.277870.L/002","DocumentType":"QC","CertificateType":"11","CertificateTypeDescription":"Misura della durezza superficiale","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"5.199449.B/001","DocumentType":"QC","CertificateType":"01","CertificateTypeDescription":"Analisi chimica di colata","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"7.018719.G","DocumentType":"QC","CertificateType":"01","CertificateTypeDescription":"Analisi chimica di colata","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"8.658424.P/A06","DocumentType":"QC","CertificateType":"27","CertificateTypeDescription":"Esame visivo e dimensionale su saldature","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"7.584692.L","DocumentType":"QC","CertificateType":"27","CertificateTypeDescription":"Esame visivo e dimensionale su saldature","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"7.584691.K","DocumentType":"QC","CertificateType":"11","CertificateTypeDescription":"Misura della durezza superficiale","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"7.584695.P","DocumentType":"QC","CertificateType":"40","CertificateTypeDescription":"Esame non distruttivo cumulativo su sald","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"DPC33L013511","DocumentType":"DO","CertificateType":"NOPREF","CertificateTypeDescription":"No Preferential Origin","HPFlag":null,"REParameter":null,"Status":0,"ReceiptDate":null,"Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":null,"VerificationReason":null,"VerificationReasonId":null,"CertificationDate":null,"CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.311238.M","DocumentType":"QC","CertificateType":"00","CertificateTypeDescription":"Rapporto di prova (EN 10204 - Tipo 2.2)","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.877165.W","DocumentType":"QC","CertificateType":"01","CertificateTypeDescription":"Analisi chimica di colata","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.877165.W","DocumentType":"QC","CertificateType":"39","CertificateTypeDescription":"Controllo superficiale dopo tempra ad in","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"4.877167.Z","DocumentType":"QC","CertificateType":"11","CertificateTypeDescription":"Misura della durezza superficiale","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"},{"Id":0,"Component":"0.001206.L","DocumentType":"QC","CertificateType":"01","CertificateTypeDescription":"Analisi chimica di colata","HPFlag":null,"REParameter":"R","Status":2,"ReceiptDate":"2022-03-14T00:00:00","Checker":"zh.ma@danieli.com","CheckerUserId":2040,"CheckerUser":{"Id":2040,"UPN":"zh.ma@danieli.com","DisplayName":"MA ZHONGZHI","RoleId":1,"Role":null,"CompanyId":null,"Company":null,"LastPeriodicalUpdateMail":null,"HasReceivedGuide":false,"GroupId":null,"Group":null,"MetYouCode":"128149","LastExcelExtraction":"2024-01-16T00:33:31.3207159","HasActiveItems":false,"UserInclusions":null,"HasSeenUpdate":false},"CheckerGroupId":null,"CheckerGroup":null,"CheckerDisplayName":null,"VerificationReasonCode":"OK","VerificationReason":{"Id":7,"Code":"OK","Description":"Compliantly certificate","Type":0,"DocumentType":0,"Deleted":false},"VerificationReasonId":7,"CertificationDate":"2022-03-14T00:00:00","CountryOfOrigin":null,"Notes":null,"OrderRowId":0,"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"}],"Attachments":null,"Logs":null,"LastModified":"2024-01-16T08:03:45.8800001+01:00"}],"Attachments":null,"Logs":null,"Emails":null,"Source":2,"LastModified":"2024-01-16T08:03:45.8800001+01:00"}]
+{
+	{
 
-20145001
-20145003
-21145014
-20145008
-21143067
-21145016
-21145008
-21145012
-21145031
-21145006
+		"orderNumber": "TEST-24017000",
+		"companyCode": "IT01",
+		"purchasingOrganization": "IT10",
+		"orderType": "OA",
+		"orderStatus": "Confirmed",
+		"vendorCode": "144082",
+		"vendorDescription": "BI.ERRE.DI  SPA",
+		"vendorContactPOConfirmation": "both@test.com;circa.circo@test.com;cris@test.com;cristianotomada@gmail.com;test@supplier.te",
+		"vendorContactCertificationManagement": "alfa.test@test.com;both@test.com;cristianotomada@gmail.com;tommy.grumble@gmail.com;tommy@test.com;zeta.test@test.com",
+		"orderDate": "2024-01-24T00:00:00",
+		"sendDate": "2024-01-24T12:11:41.6684909",
+		"buyer": "test@test.com",
+		"buyerDisplayName": "RUSSO SALVATORE",
+		"expediter": "expediter@test1.com",
+		"expediterDisplayName": "COSSA CARLO",
+		"currency": "EUR",
+		"totalAmount": 0.000000000000000,
+		"incoterms": null,
+		"incotermsLocation": null,
+		"modeOfTransportation": null,
+		"modeOfTransportationDescription": null,
+		"paymentTerms": "T01",
+		"paymentTermsDescription": null,
+		"paymentMode": "I",
+		"paymentModeDescription": null,
+		"hasSupplierSeeThisOrder": false,
+		"rows": [
+			{
+				
+				"item": 1000,
+				"itemStatus": "Active",
+				"codeDWG": "7.090331.S/009",
+				"owRevisionLevel": "00D",
+				"itemWeight": 1.460000000000000,
+				"weightUM": "KG",
+				"bomPosition": null,
+				"supplyDescription": "SPACER",
+				"plant": "IT10",
+				"storageLocation": null,
+				"materialGroup": "073",
+				"quantity": 2.000000000000000,
+				"quantityReceived": 0.00,
+				"deliveryCompleted": null,
+				"um": "NR",
+				"totalAmount": 0.000000000000000,
+				"taxCode": "V",
+				"deliveryDate": "2024-01-24T00:00:00",
+				"costCenter": "D999",
+				"wbSelement": "DPC2W4014961",
+				"soNumber": null,
+				"soItem": null,
+				"assetNumber": null,
+				"expectedDate": "2024-01-24T00:00:00",
+				"eta": "2024-01-24T00:00:00",
+				"readyForDeliveryDate": null,
+				"accountAssignmentCategory": null,
+				"itemCategory": null,
+				"countryRestriction": null,
+				"whiteListCountries": null,
+				"destinationCountry": "P.R. OF CHINA",
+				"inboundDelDate": null,
+				"actualGrDate": null,
+				"hasBill": false,
+				
+				"rowCertificates": [
+					{
+						
+						"component": "7.090331.S/009",
+						"documentType": "DO",
+						"certificateType": "PREF",
+						"certificateTypeDescription": "Preferential Origin",
+						"hpFlag": null,
+						"reParameter": "R",
+						"status": "Verified",
+						"receiptDate": "2024-01-24T00:00:00",
+						"checker": "expediter@test2.com",
+						
+						
+						"checkerGroup": null,
+						"checkerDisplayName": null,
+						"verificationReasonCode": "OK",
+						"verificationReason": null,
+						
+						"certificationDate": "2024-01-24T00:00:00",
+						"countryOfOrigin": "IT",
+						"notes": null,
+						
+						"attachments": [],
+						"lastModified": "2024-01-24T12:37:09.9742461"
+					},
+					{
+						
+						"component": "7.090331.S/009",
+						"documentType": "QC",
+						"certificateType": "98",
+						"certificateTypeDescription": "QCP del fornitore, inclusi i certificati",
+						"hpFlag": null,
+						"reParameter": "R",
+						"status": "Verified",
+						"receiptDate": "2024-01-24T13:56:23.667895",
+						"checker": "Expediter Test 2",
+						
+						
+						"checkerGroup": null,
+						"checkerDisplayName": "Expediter Test 2",
+						"verificationReasonCode": "OK",
+						"verificationReason": null,
+						
+						"certificationDate": "2024-01-24T14:05:57.4537235",
+						"countryOfOrigin": null,
+						"notes": null,
+						
+						
+						"lastModified": "2024-01-24T14:06:01.2538324"
+					},
+					{
+						
+						"component": "7.090331.S/009",
+						"documentType": "QC",
+						"certificateType": "100",
+						"certificateTypeDescription": "Dichiarazione di Conformità di Prodotto",
+						"hpFlag": null,
+						"reParameter": "R",
+						"status": "Rejected",
+						"receiptDate": "2024-01-24T13:57:55.1636835",
+						"checker": "Expediter Test 2",
+						
+						
+						"checkerGroup": null,
+						"checkerDisplayName": "Expediter Test 2",
+						"verificationReasonCode": "KO",
+						"verificationReason": null,
+						
+						"certificationDate": null,
+						"countryOfOrigin": null,
+						"notes": null,
+						
+						"lastModified": "2024-01-24T14:06:55.3363882"
+					}
+				],
+				"attachments": [],
+				"lastModified": "2024-01-24T12:37:09.9742461"
+			},
+			{
+				
+				"item": 2000,
+				"itemStatus": "Active",
+				"codeDWG": "7.266854.E/001",
+				"owRevisionLevel": "01",
+				"itemWeight": 1.000000000000000,
+				"weightUM": "KG",
+				"bomPosition": null,
+				"supplyDescription": "WASHER",
+				"plant": "IT10",
+				"storageLocation": null,
+				"materialGroup": "073",
+				"quantity": 4.000000000000000,
+				"quantityReceived": 0.00,
+				"deliveryCompleted": null,
+				"um": "NR",
+				"totalAmount": 0.000000000000000,
+				"taxCode": "V",
+				"deliveryDate": "2024-01-24T00:00:00",
+				"costCenter": "D999",
+				"wbSelement": "DPC2W4014961",
+				"soNumber": null,
+				"soItem": null,
+				"assetNumber": null,
+				"expectedDate": "2024-01-24T00:00:00",
+				"eta": "2024-01-24T00:00:00",
+				"readyForDeliveryDate": null,
+				"accountAssignmentCategory": null,
+				"itemCategory": null,
+				"countryRestriction": null,
+				"whiteListCountries": null,
+				"destinationCountry": "P.R. OF CHINA",
+				"inboundDelDate": null,
+				"actualGrDate": null,
+				"hasBill": false,
+				
+				"rowCertificates": [
+					{
+						
+						"component": "7.266854.E/001",
+						"documentType": "DO",
+						"certificateType": "PREF",
+						"certificateTypeDescription": "Preferential Origin",
+						"hpFlag": null,
+						"reParameter": "R",
+						"status": "Verified",
+						"receiptDate": "2024-01-24T00:00:00",
+						"checker": "expediter@test2.com",
+						
+						
+						"checkerGroup": null,
+						"checkerDisplayName": null,
+						"verificationReasonCode": "OK",
+						"verificationReason": null,
+						
+						"certificationDate": "2024-01-24T00:00:00",
+						"countryOfOrigin": "IT",
+						"notes": null,
+						
+						"attachments": [],
+						"lastModified": "2024-01-24T12:37:09.9742461"
+					},
+					{
+						
+						"component": "7.266854.E/001",
+						"documentType": "QC",
+						"certificateType": "02",
+						"certificateTypeDescription": "Analisi chimica con indice di grossezza ",
+						"hpFlag": null,
+						"reParameter": "R",
+						"status": "ToBeVerified",
+						"receiptDate": "2024-01-25T13:01:15.4524941",
+						"checker": "expediter@test1.com",
+						
+						"checkerGroup": null,
+						"checkerDisplayName": null,
+						"verificationReasonCode": null,
+						"verificationReason": null,
+						
+						"certificationDate": null,
+						"countryOfOrigin": null,
+						"notes": null,
+												
+						"lastModified": "2024-01-25T13:01:17.9926498"
+					},
+					{
+						
+						"component": "7.266854.E/001",
+						"documentType": "QC",
+						"certificateType": "10",
+						"certificateTypeDescription": "Prova meccanica su provini della stessa ",
+						"hpFlag": null,
+						"reParameter": "R",
+						"status": "ToBeVerified",
+						"receiptDate": "2024-01-25T13:01:38.3771788",
+						"checker": "expediter@test1.com",
+						
+						
+						"checkerGroup": null,
+						"checkerDisplayName": null,
+						"verificationReasonCode": null,
+						"verificationReason": null,
+						
+						"certificationDate": null,
+						"countryOfOrigin": null,
+						"notes": null,
+						"lastModified": "2024-01-25T13:01:55.1159507"
+					}
+				],
+				"attachments": [],
+				"lastModified": "2024-01-24T12:37:09.9742461"
+			},
+			{
+				
+				"item": 3000,
+				"itemStatus": "Active",
+				"codeDWG": "7.266854.E/002",
+				"owRevisionLevel": "01",
+				"itemWeight": 0.800000000000000,
+				"weightUM": "KG",
+				"bomPosition": null,
+				"supplyDescription": "WASHER",
+				"plant": "IT10",
+				"storageLocation": null,
+				"materialGroup": "073",
+				"quantity": 4.000000000000000,
+				"quantityReceived": 0.00,
+				"deliveryCompleted": null,
+				"um": "NR",
+				"totalAmount": 0.000000000000000,
+				"taxCode": "V",
+				"deliveryDate": "2024-01-24T00:00:00",
+				"costCenter": "D999",
+				"wbSelement": "DPC2W4014961",
+				"soNumber": null,
+				"soItem": null,
+				"assetNumber": null,
+				"expectedDate": "2024-01-24T00:00:00",
+				"eta": "2024-01-24T00:00:00",
+				"readyForDeliveryDate": null,
+				"accountAssignmentCategory": null,
+				"itemCategory": null,
+				"countryRestriction": null,
+				"whiteListCountries": null,
+				"destinationCountry": "P.R. OF CHINA",
+				"inboundDelDate": null,
+				"actualGrDate": null,
+				"hasBill": false,
+				
+				"rowCertificates": [
+					{
+						"component": "7.266854.E/002",
+						"documentType": "QC",
+						"certificateType": "10",
+						"certificateTypeDescription": "Prova meccanica su provini della stessa ",
+						"hpFlag": null,
+						"reParameter": "R",
+						"status": "ToBeVerified",
+						"receiptDate": "2024-01-25T13:02:18.3661371",
+						"checker": "expediter@test1.com",
+						
+						
+						"checkerGroup": null,
+						"checkerDisplayName": null,
+						"verificationReasonCode": null,
+						"verificationReason": null,
+						
+						"certificationDate": null,
+						"countryOfOrigin": null,
+						"notes": null,
+						
+						"lastModified": "2024-01-25T13:02:20.9537552"
+					},
+					{
+						
+						"component": "7.266854.E/002",
+						"documentType": "QC",
+						"certificateType": "100",
+						"certificateTypeDescription": "Dichiarazione di Conformità di Prodotto",
+						"hpFlag": null,
+						"reParameter": "R",
+						"status": "ToBeSubmitted",
+						"receiptDate": null,
+						"checker": "expediter@test1.com",						
+												
+						"checkerGroup": null,
+						"checkerDisplayName": null,
+						"verificationReasonCode": null,
+						"verificationReason": null,
+						
+						"certificationDate": null,
+						"countryOfOrigin": null,
+						"notes": null,
+
+						"attachments": [],
+						"lastModified": "2024-01-24T12:37:09.9742461"
+					},
+					{
+						
+						"component": "7.266854.E/002",
+						"documentType": "DO",
+						"certificateType": "PREF",
+						"certificateTypeDescription": "Preferential Origin",
+						"hpFlag": null,
+						"reParameter": "R",
+						"status": "ToBeVerified",
+						"receiptDate": "2024-01-25T13:02:45.9769494",
+						"checker": "expediter@test1.com",
+						
+						
+						"checkerGroup": null,
+						"checkerDisplayName": null,
+						"verificationReasonCode": null,
+						"verificationReason": null,
+						
+						"certificationDate": null,
+						"countryOfOrigin": "CH",
+						"notes": null,
+						
+						"lastModified": "2024-01-25T13:02:56.3628839"
+					}
+				],
+				"attachments": [],
+				"lastModified": "2024-01-24T12:37:09.9742461"
+			},
+			{
+				
+				"item": 4000,
+				"itemStatus": "Active",
+				"codeDWG": "7.266854.E/003",
+				"owRevisionLevel": "01",
+				"itemWeight": 1.800000000000000,
+				"weightUM": "KG",
+				"bomPosition": null,
+				"supplyDescription": "WASHER",
+				"plant": "IT10",
+				"storageLocation": null,
+				"materialGroup": "073",
+				"quantity": 2.000000000000000,
+				"quantityReceived": 0.00,
+				"deliveryCompleted": null,
+				"um": "NR",
+				"totalAmount": 0.000000000000000,
+				"taxCode": "V",
+				"deliveryDate": "2024-01-24T00:00:00",
+				"costCenter": "D999",
+				"wbSelement": "DPC2W4014961",
+				"soNumber": null,
+				"soItem": null,
+				"assetNumber": null,
+				"expectedDate": "2024-01-24T00:00:00",
+				"eta": "2024-01-24T00:00:00",
+				"readyForDeliveryDate": null,
+				"accountAssignmentCategory": null,
+				"itemCategory": null,
+				"countryRestriction": null,
+				"whiteListCountries": null,
+				"destinationCountry": "P.R. OF CHINA",
+				"inboundDelDate": null,
+				"actualGrDate": null,
+				"hasBill": false,
+				
+				"rowCertificates": [
+					{
+						
+						"component": "7.266854.E/003",
+						"documentType": "QC",
+						"certificateType": "01",
+						"certificateTypeDescription": "Analisi chimica di colata",
+						"hpFlag": null,
+						"reParameter": "R",
+						"status": "ToBeVerified",
+						"receiptDate": "2024-01-25T13:03:56.9289156",
+						"checker": "expediter@test1.com",
+						
+						
+						"checkerGroup": null,
+						"checkerDisplayName": null,
+						"verificationReasonCode": null,
+						"verificationReason": null,
+						
+						"certificationDate": null,
+						"countryOfOrigin": null,
+						"notes": null,
+						
+						"lastModified": "2024-01-25T13:04:00.0231236"
+					},
+					{
+						
+						"component": "7.266854.E/003",
+						"documentType": "QC",
+						"certificateType": "03",
+						"certificateTypeDescription": "Esame con ultrasuoni di fucinati",
+						"hpFlag": null,
+						"reParameter": "R",
+						"status": "ToBeSubmitted",
+						"receiptDate": null,
+						"checker": "expediter@test1.com",
+						
+						
+						"checkerGroup": null,
+						"checkerDisplayName": null,
+						"verificationReasonCode": null,
+						"verificationReason": null,
+						
+						"certificationDate": null,
+						"countryOfOrigin": null,
+						"notes": null,
+						
+						"attachments": [],
+						"lastModified": "2024-01-24T12:37:09.9742461"
+					},
+					{
+						
+						"component": "7.266854.E/003",
+						"documentType": "DO",
+						"certificateType": "PREF",
+						"certificateTypeDescription": "Preferential Origin",
+						"hpFlag": null,
+						"reParameter": "R",
+						"status": "ToBeSubmitted",
+						"receiptDate": null,
+						"checker": "expediter@test1.com",
+						
+						
+						"checkerGroup": null,
+						"checkerDisplayName": null,
+						"verificationReasonCode": null,
+						"verificationReason": null,
+						
+						"certificationDate": null,
+						"countryOfOrigin": null,
+						"notes": null,
+						
+						"attachments": [],
+						"lastModified": "2024-01-24T12:37:09.9742461"
+					}
+				],
+				"attachments": [],
+				"lastModified": "2024-01-24T12:37:09.9742461"
+			}
+]
+}
