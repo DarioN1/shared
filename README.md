@@ -3,14 +3,26 @@ shared
 
 https://DxxxxxICT-Apps@dev.azure.com/DanieliICT-Apps/DVCP/_git/DVCP
 
+SELECT *
+FROM USERS    uu
+where roleid = 16
+and HasActiveItems > 0
+and exists (
 select *
-from Attachments aa
-join RowCertificates rc
-on aa.RowCertificateId is not null
-and aa.RowCertificateId = rc.Id
-join OrderRows od
+from RowCertificates rc
+join OrderRows od 
 on od.id = rc.OrderRowId
-join Orders	po
+join orders po
 on po.id = od.OrderId
-where po.Source = 2
-and po.OrderNumber = '22775430'
+and charindex (trim(uu.upn),po.VendorContactCertificationManagement,1) > 0
+and rc.Status = 0
+and po.CompanyCode = 'CN60'
+)
+and not exists (
+select *
+from EmailRecipients er
+join emails em 
+on em.Id = er.EmailId
+where email = uu.upn
+and SentDateTime > '20240317'
+)
